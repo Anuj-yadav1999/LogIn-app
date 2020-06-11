@@ -1,0 +1,36 @@
+.outerContainer{
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: blueviolet;
+    padding-left: 420px;
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-bottom: 80px;
+}
+
+.header{
+    text-align: left;
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.dataContainer{
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.labelContainer{
+    padding-right: 30px;
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.inputContainer{
+    font-size: 25px;
+}
+
+.button {
+    font-size: 30px;
+    background-color: brown;
+}

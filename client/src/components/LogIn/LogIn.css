@@ -1,0 +1,25 @@
+.outaContainer{
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: rgb(218, 198, 25);
+    padding-left: 420px;
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-bottom: 80px;
+}
+
+.headinContainer{
+    font-size: 40px;
+    padding-bottom: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.buttonConatainer{
+    margin-top: 40px;
+    padding-top: 30px;
+}
+
+.buttonCont{
+    font-size: 30px;
+}
